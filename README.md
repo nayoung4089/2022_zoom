@@ -1,5 +1,3 @@
-# WhaleYoung
+# Zoom Clone Coding
 
-Zoom Clone Using  NodeJS WebRTC and Websockets
-사실 줌은 아니고 채팅창 만들었어요
-링크 : 
+### 만드는 중 ...
